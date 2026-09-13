@@ -89,14 +89,6 @@ Badges and stats from my Hack The Box journey:
 <img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="HTB Badge" width="200" />  
 
 ---
-> # CERTIFICATES
-
-<img src="certificates/AI/AI.jpg"></img>
-<img src="certificates/CyberSecurity/cybersecurity.jpg"></img>
-<img src="certificates/CyberSecurity/gcybersecurity.jpg"></img>
-<img src="certificates/Networking/networking.jpg"></img>
-
----
 
 ### Projects I'm Focusing On  
 
