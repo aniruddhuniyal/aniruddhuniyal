@@ -12,7 +12,7 @@
 aniruddh@github
 -------------------
 OS:                Aniruddh Uniyal
-  Uptime:          2 years, 3 months (booted Jul 2024)
+  Uptime:          Booted Jul 1, 2024
     Host:          Chennai, India
       Languages:   Python, C++, Ada, ASM
         UI:        PyQt5 / PyQt6 / Qt
