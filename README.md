@@ -8,24 +8,27 @@
 
 <td valign="middle">
 
+```bash
+aniruddh@github
+-------------------
+OS:                Aniruddh Uniyal
+  Uptime:          2 years, 3 months (booted Jul 2024)
+    Host:          Chennai, India
+      Languages:   Python, C++, Ada, ASM
+        UI:        PyQt5 / PyQt6 / Qt
+      Focus:       AI/ML, Cybersecurity, Robotics, BCI
+    Network:       CCNA / CCNP / CCIE track
+  Shell:           zshrc
+Status:            open to freelance work
+```
+
 <code>aniruddh@github:~$</code> whoami<br>
 Aniruddh Uniyal
 <br>
 
-<code>aniruddh@github:~$</code> age<br>
-19
+<code>aniruddh@github:~$</code> code<br>
+initializing codebase▐
 <br>
-
-<code>aniruddh@github:~$</code> skills<br>
-<img src="./assets/skills/c++.png">
-<img src="./assets/skills/matlab.png">
-<img src="./assets/skills/assembly.png">
-<img src="./assets/skills/python.png">
-<img src="./assets/skills/ada.png" width="50">
-<br>
-
-<code>aniruddh@github:~$</code> cat philosophy.txt<br>
-Solo. Love Cats. Love Coding. Love Caffeine.
 
 <img src="./assets/spacer.png" width="600" height="1">
 
